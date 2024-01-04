@@ -10,7 +10,7 @@ Adafruit_RGBLCDShield lcd = Adafruit_RGBLCDShield();
 #define WHITE 0x7
 #define GREEN 0x2
 #define RED 0x1
-/* The following 4 constants are allowing main and settings menu pages
+/* The following 4 constants allow main and settings menu pages
  * to circle all the way around.
  */
 #define NUM_OPTIONS 3
